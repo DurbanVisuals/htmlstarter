@@ -1,0 +1,20 @@
+{
+  "name": "htmlstarter",
+  "version": "1.0.0",
+  "description": "Simple html layout starter with gulp sass and browsersync",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Grant R. Rowley",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.4.1",
+    "browser-sync": "^2.7.13",
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-file-include": "^0.11.1",
+    "gulp-flatten": "^0.1.0",
+    "gulp-sass": "^2.0.3"
+  }
+}
